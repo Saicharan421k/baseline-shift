@@ -32,13 +32,7 @@ Current tools are good at saying "no" (you can't use this new feature), but they
 
 -----
 
-## 🎬 Live Demo
 
-### JavaScript Quick Fix in Action
-
-### CSS Modernization Suggestion
-
------
 
 ## How It Integrates Baseline Data
 
